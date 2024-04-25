@@ -15,7 +15,7 @@ Mealify provides a user-friendly interface for browsing recipes, meal plans, and
 
 ## Project Demo
 
-Explore Mealify live on [GitHub Pages](https://ahmedgalileo22.github.io/Mealify_Route/).
+Explore Mealify live on [ Mealify Pages](https://ahmedgalileo22.github.io/Mealify_Route/).
 
 ## Usage
 
